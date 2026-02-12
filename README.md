@@ -4,7 +4,7 @@
 ## 🌐 Access the Tool
 
 The tool is deployed via GitHub Pages and can be accessed at:
-`https://vanj900.github.io/Red-Flag-Auditor/`
+`https://vanj900.github.io/vanj900-Red-Flag-Auditor/`
 
 ## 🚀 Deployment
 
