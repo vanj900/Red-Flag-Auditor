@@ -32,7 +32,7 @@ Follow these steps to enable GitHub Pages deployment:
 
 Once deployed, your site will be available at:
 ```
-https://vanj900.github.io/Red-Flag-Auditor/
+https://vanj900.github.io/vanj900-Red-Flag-Auditor/
 ```
 
 ## Workflow Details
